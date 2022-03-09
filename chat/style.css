@@ -1,0 +1,32 @@
+.container{
+    height:600px;
+    width: 95%;
+    padding:15px;
+    margin:auto auto;
+}
+.user{
+    width: 100%;
+    height: 100px;
+}
+.chat {
+    width: 100%;
+    height: 100%;
+    margin-top: 30px;
+    padding: 10px;
+    background-color: white;
+}
+.message{
+    width:200px;
+    border:1px solid;
+    border-radius: 10px;
+    margin-left: 40px;
+    padding: 10px;
+}
+.messageother{
+    width:200px;
+    border:1px solid;
+    border-radius: 10px;
+    float: right; 
+   padding: 10px;
+   margin-right:50px ;
+}
